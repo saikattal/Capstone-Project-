@@ -9,12 +9,13 @@ System failures can occur in any machine, posing significant risks to various in
 
 #### Project Notebook:
 Explore the provided Jupyter notebooks for detailed analysis and visualization:
-'Predictive_Maintenance_Capstone_Project'
+'Predictive_Maintenance_Capstone_Project.ipynb'
 
 #### Dataset
 The dataset used in this project is stored in the data directory:
 
 AnomaData.xlsx: Raw dataset in .xlsx format
+
 train and test data processed.zip: Processed train and test data from the raw data in .csv format
 
 #### Model
