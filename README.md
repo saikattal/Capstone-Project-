@@ -7,22 +7,22 @@ AnomaData is a predictive maintenance solution aimed at reducing risks and provi
 System failures can occur in any machine, posing significant risks to various industries. Predictive maintenance is essential for preventing such failures and ensuring the continuous operation of equipment. This project aims to predict machine breakdowns by identifying anomalies in the data. The dataset consists of over 18,000 rows collected over a few days, with binary labels in the 'y' column indicating the presence (1) or absence (0) of anomalies.
 
 
-Project Notebook:
+#### Project Notebook:
 Explore the provided Jupyter notebooks for detailed analysis and visualization:
 'Predictive_Maintenance_Capstone_Project'
 
-Dataset
+#### Dataset
 The dataset used in this project is stored in the data directory:
 
-AnomaData.xlsx: Raw dataset
+AnomaData.xlsx: Raw dataset in .xlsx format
+train and test data processed.zip: Processed train and test data from the raw data in .csv format
 
-
-Model
+####Model
 The trained model is saved in the models directory:
 
 random_forest_model.pkl
 
-Requirements
+####Requirements
 The required packages are listed in the requirements.txt file. Install them using:
 pip install -r requirements.txt
 
