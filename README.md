@@ -14,9 +14,8 @@ Explore the provided Jupyter notebooks for detailed analysis and visualization:
 Dataset
 The dataset used in this project is stored in the data directory:
 
-predictive maintenance.csv: Raw dataset
-training_data.csv: Training data with predictors and binary labels.
-testing_data.csv: Testing data for evaluating the model.
+AnomaData.xlsx: Raw dataset
+
 
 Model
 The trained model is saved in the models directory:
