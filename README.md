@@ -17,12 +17,12 @@ The dataset used in this project is stored in the data directory:
 AnomaData.xlsx: Raw dataset in .xlsx format
 train and test data processed.zip: Processed train and test data from the raw data in .csv format
 
-####Model
+#### Model
 The trained model is saved in the models directory:
 
 random_forest_model.pkl
 
-####Requirements
+#### Requirements
 The required packages are listed in the requirements.txt file. Install them using:
 pip install -r requirements.txt
 
