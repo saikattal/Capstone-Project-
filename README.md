@@ -23,7 +23,18 @@ The trained model is saved in the models directory:
 
 random_forest_model.pkl
 
+#### visuals
+Visualizations of the evaluation metrices of the trained model before and after
+
+**rf_model_tuned.png:** Confusion matrix of the tumed Random Forest model showing great model performance
+
+**rf_wo_tuning.png:** Confusion matrix of the Random Forest model before tuning
+
+**dl_model.png** Confusion matrix of the Deep Learning model which doesn't perform well.
+
+
 #### Requirements
 The required packages are listed in the requirements.txt file. Install them using:
+
 pip install -r requirements.txt
 
